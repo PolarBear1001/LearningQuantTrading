@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quant Trading Learning Journey
 
 ## About
@@ -30,3 +31,7 @@ Hilpisch and building foundational Python skills in NumPy and pandas.
 
 Secure a quant developer internship at Optiver, IMC, Susquehanna,
 or Macquarie for the 2026-2027 summer intake.
+=======
+# LearningQuantTrading
+This repo will be used to take notes and track my progress while learning quant trading. 
+>>>>>>> 2d610c1b1cb7fa7c359881d3214f5cc1b524f3e8
